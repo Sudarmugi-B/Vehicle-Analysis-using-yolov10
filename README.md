@@ -33,7 +33,7 @@ A comprehensive vehicle analysis system that performs vehicle detection, countin
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/video-based-detection-system.git
+   git clone https://github.com/Sudarmugi-B/Vehicle-Analysis-using-yolov10
    cd video-based-detection-system
    ```
 
