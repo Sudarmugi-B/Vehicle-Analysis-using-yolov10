@@ -1,0 +1,14 @@
+streamlit==1.24.0
+opencv-python==4.7.0.72
+numpy==1.24.3
+Pillow==9.5.0
+torch==2.0.1
+torchvision==0.15.2
+pytesseract==0.3.10
+youtube-dl==2021.12.17
+pafy==0.5.5
+imutils==0.5.4
+ultralytics==8.0.124
+transformers==4.33.3
+tokenizers==0.15.0
+cohere==5.8.0
