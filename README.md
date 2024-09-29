@@ -9,8 +9,6 @@ A comprehensive vehicle analysis system that performs vehicle detection, countin
 - [How It Works](#how-it-works)
 - [Project Structure](#project-structure)
 - [Database Schema](#database-schema)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
